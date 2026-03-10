@@ -88,4 +88,4 @@ Through this project I practiced:
 
 If you have suggestions or feedback, feel free to connect.
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/account
